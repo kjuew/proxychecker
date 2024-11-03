@@ -10,7 +10,7 @@ Welcome to the Proxy Checker! This tool allows you to verify the functionality o
 
 - **Multi-Proxy Support**: Check multiple proxies simultaneously.
 - **Status Reporting**: Get real-time results on whether proxies are working or not.
-- **Detailed Information**: View details such as IP address, port, type, and response time.
+- **Detailed Information**: View details such as IP address, port, type.
 - **User-Friendly Interface**: Simple and intuitive interface for ease of use.
 
 ## Installation
