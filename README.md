@@ -25,3 +25,10 @@ To get started with the Proxy Checker, you can download the latest release from 
 2. Download the latest version of Proxy Checker as a ZIP file.
 3. Unzip the downloaded ZIP file.
 4. Locate the `.exe` file in the unzipped folder.
+
+# Proxy Checker
+
+## Application Screenshot
+![Proxy Checker](https://r.resimlink.com/-Un24LM.png)
+
+This is the interface of the Proxy Checker application, designed to verify the availability and responsiveness of proxies efficiently. Users can input a list of proxy addresses and receive immediate feedback on their status.
